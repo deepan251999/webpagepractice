@@ -12,12 +12,6 @@ body{
     height: 650px;
 }
 .container{
-    /* position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    box-sizing: border-box;
-    padding: 12px 0 ; */
     display: flex;
     background-color: rgba(12, 11, 9, 0.7);
     width: 100%;
@@ -89,7 +83,6 @@ body{
     margin-left: 120px;
     color: white;
     font-family: "Poppins", sans-serif;
-
 }
 .ban-welcome h1 span{
     color: #cda45e;
@@ -588,7 +581,6 @@ textarea{
     background-color: #1a1814;
 }
 .about-flex{
-    /* background-color: aqua; */
     width: 1200px;
     height: 276px;
     margin-left: 100px;
@@ -1022,6 +1014,7 @@ width: 1200px;
     background-color: #cda45e;
     cursor: pointer;
 }
+
 /* COPY RIGHTS */
 .copy-right{
     height: 100px;
